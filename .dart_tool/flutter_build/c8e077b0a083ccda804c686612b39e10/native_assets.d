@@ -1,0 +1,1 @@
+ E:\\PROJECT\\flutter\\chess\\firstversion\\.dart_tool\\flutter_build\\c8e077b0a083ccda804c686612b39e10\\native_assets.yaml: 
